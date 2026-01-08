@@ -2,3 +2,5 @@ GitHub on veebipõhine platvorm, mida kasutatakse koodi haldamiseks ja versiooni
 GitHub võimaldab arendajatel teha koostööd, jagada projekte ja jälgida muudatusi.
 Tulevikus saan GitHubi kasutada oma projektide salvestamiseks ja koostööks teiste arendajatega.
 GitHub Inc. asutati 2008. aastal San Franciscos ning GitHubi teenus sai laialdaselt kättesaadavaks samal aastal.
+In the future, I could use GitHub for storing my study projects and collaborating with other developers.
+GitHub was founded in 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett. The GitHub service became publicly available in 2008.
