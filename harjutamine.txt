@@ -1,0 +1,4 @@
+GitHub on veebipõhine platvorm, mida kasutatakse koodi haldamiseks ja versioonihalduseks.
+GitHub võimaldab arendajatel teha koostööd, jagada projekte ja jälgida muudatusi.
+Tulevikus saan GitHubi kasutada oma projektide salvestamiseks ja koostööks teiste arendajatega.
+GitHub Inc. asutati 2008. aastal San Franciscos ning GitHubi teenus sai laialdaselt kättesaadavaks samal aastal.
